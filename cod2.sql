@@ -1,0 +1,4 @@
+CREATE TABLE roles (
+	id integer PRIMARY KEY NOT NULL,
+	name VARCHAR (255) UNIQUE NOT NULL
+);
